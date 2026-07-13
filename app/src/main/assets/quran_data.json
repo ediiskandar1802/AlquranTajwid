@@ -1,0 +1,92 @@
+[
+  {
+    "number": 1,
+    "name": "Al-Fatihah",
+    "arabicName": "الفاتحة",
+    "revelation": "Makkah",
+    "ayahCount": 7,
+    "description": "Pembukaan Al-Qur'an",
+    "ayahs": [
+      {
+        "number": 1,
+        "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "translation": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang.",
+        "tajweedRules": "Tajweed: Ikhfa dan Qalqalah",
+        "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3"
+      },
+      {
+        "number": 2,
+        "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "translation": "Segala puji bagi Allah, Tuhan semesta alam.",
+        "tajweedRules": "Tajweed: Waqf pada akhir ayat",
+        "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3"
+      },
+      {
+        "number": 3,
+        "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+        "translation": "Yang Maha Pengasih lagi Maha Penyayang.",
+        "tajweedRules": "Tajweed: Mad dan Ghunnah",
+        "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3"
+      },
+      {
+        "number": 4,
+        "text": "مَالِكِ يَوْمِ الدِّينِ",
+        "translation": "Penguasa hari Pembalasan.",
+        "tajweedRules": "Tajweed: Sukun dan Tasydid",
+        "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3"
+      },
+      {
+        "number": 5,
+        "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "translation": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan.",
+        "tajweedRules": "Tajweed: Ikhfa Hakiki",
+        "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3"
+      },
+      {
+        "number": 6,
+        "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "translation": "Tunjukilah kami jalan yang lurus.",
+        "tajweedRules": "Tajweed: Ghunnah dan Tasydid",
+        "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3"
+      },
+      {
+        "number": 7,
+        "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+        "translation": "Jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan jalan mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat.",
+        "tajweedRules": "Tajweed: Waqf dan Mad Arid",
+        "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "name": "Al-Baqarah",
+    "arabicName": "البقرة",
+    "revelation": "Madinah",
+    "ayahCount": 286,
+    "description": "Sapi Betina",
+    "ayahs": [
+      {
+        "number": 1,
+        "text": "الم",
+        "translation": "Alif lam mim",
+        "tajweedRules": "Huruf Muqatta'ah",
+        "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3"
+      },
+      {
+        "number": 2,
+        "text": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+        "translation": "Kitab (Al-Quran) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa.",
+        "tajweedRules": "Tajweed: Sakta dan Sukun",
+        "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3"
+      },
+      {
+        "number": 3,
+        "text": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+        "translation": "Mereka yang beriman kepada yang gaib, mendirikan salat, dan menafkahkan sebahagian rezki yang kami anugerahkan kepada mereka.",
+        "tajweedRules": "Tajweed: Imala dan Tafkik",
+        "audioUrl": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3"
+      }
+    ]
+  }
+]
